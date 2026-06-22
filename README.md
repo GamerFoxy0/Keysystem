@@ -1,6 +1,5 @@
 # SentinelUI Key System v1.00
 
-If u want to buy source: https://gamerfoxy0.gumroad.com/l/mchqci
 ---
 
 | Field | Type | Description |
